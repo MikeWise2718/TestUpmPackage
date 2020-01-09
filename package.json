@@ -1,0 +1,22 @@
+{
+"name": "com.coffee.testgithubproject",
+"displayName": "UpmProject",
+"description": "Test Upm Project stored as Unity project in Github",
+"version": "v1.0.0",
+"unity": "2019.3",
+"license": "MIT",
+"dependencies": {
+ },
+"samples": [
+   {
+     "displayName": "Blue Sample 1",
+     "description": "Description for sample 1",
+     "path": "Samples~/Sample1"
+   },
+   {
+     "displayName": "Red Sample 2",
+     "description": "Description for sample 2",
+     "path": "Samples~/Sample2"
+   }
+ ]
+}
